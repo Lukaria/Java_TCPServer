@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<currency>
+    <currencyId>1</currencyId>
+    <currencyCode>840</currencyCode>
+    <symbol>36</symbol>
+    <coeff>2.54</coeff>
+</currency>

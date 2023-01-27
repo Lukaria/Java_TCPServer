@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<currency>
+    <currencyId>21</currencyId>
+    <currencyCode>999</currencyCode>
+    <symbol>33</symbol>
+    <abbreviation>TST</abbreviation>
+    <coeff>99.99</coeff>
+</currency>
